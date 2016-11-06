@@ -1,0 +1,19 @@
+{
+  "name": "fcc-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "parse and return header information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjsheets/FCC-Header-Parser-Microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjsheets/FCC-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/cjsheets/FCC-Header-Parser-Microservice#readme"
+}
