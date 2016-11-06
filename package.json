@@ -1,6 +1,9 @@
 {
   "name": "fcc-header-parser-microservice",
   "version": "1.0.0",
+  "dependencies" : {
+    "ua-parser-js" : "latest"
+  },
   "description": "parse and return header information",
   "main": "server.js",
   "scripts": {
